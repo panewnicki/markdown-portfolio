@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Ten tekst będzie pogrubiony**, _ten będzie pochylony_, a _**ten będzie pogrubiony i pochylony**_
